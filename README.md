@@ -3,4 +3,6 @@ Basic recreation of PONG, an arcade classic developed by ATARI. The recreation w
 
 This project of mine is open-source
 
-Note: Be sure to unzip the project! Audio files will fail to load if 'PONG.rap' is executed within a zipped directory!
+Note: Be sure to unzip the project! 
+
+Audio files will fail to load if 'PONG.rap' is executed within a zipped directory!
